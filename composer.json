@@ -1,0 +1,21 @@
+{
+    "name": "rdomenzain/cfdi2pdf",
+    "description": "Crear un PDF a partir de una CFDI.",
+    "keywords": ["cfdi", "mexico", "invoice", "pdf", "factura", "ddsis"],
+    "homepage": "https://github.com/rdomenzain/Cfdi2Pdf",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ricardo Domenzain M.",
+            "email": "rdomenzain@ddsis.com.mx",
+            "homepage": "https://ddsis.com.mx/"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/rdomenzain/Cfdi2Pdf",
+        "issues": "https://github.com/rdomenzain/Cfdi2Pdf/issues"
+    },
+    "require": {
+        "spipu/html2pdf": "^5.2"
+    }
+}
