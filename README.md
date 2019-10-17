@@ -41,14 +41,14 @@ and don't forget to take a look in the [TODO][] and [CHANGELOG][] files.
 The rdomenzain/cfdi2pdf library is copyright © [Ricardo Domenzain M.](https://ddsis.com.mx/)
 and licensed for use under the MIT License (MIT). Please see [LICENSE][] for more information.
 
-[contributing]: https://github.com/rdomenzain/Cfdi2Pdf/blob/master/CONTRIBUTING.md
-[changelog]: https://github.com/rdomenzain/Cfdi2Pdf/blob/master/docs/CHANGELOG.md
-[todo]: https://github.com/rdomenzain/Cfdi2Pdf/blob/master/docs/TODO.md
+[contributing]: https://github.com/rdomenzain/cfdi2pdf/blob/master/CONTRIBUTING.md
+[changelog]: https://github.com/rdomenzain/cfdi2pdf/blob/master/docs/CHANGELOG.md
+[todo]: https://github.com/rdomenzain/cfdi2pdf/blob/master/docs/TODO.md
 
-[source]: https://github.com/rdomenzain/Cfdi2Pdf
-[license]: https://github.com/rdomenzain/Cfdi2Pdf/blob/master/LICENSE
-[downloads]: https://packagist.org/packages/rdomenzain/Cfdi2Pdf
+[source]: https://github.com/rdomenzain/cfdi2pdf
+[license]: https://github.com/rdomenzain/cfdi2pdf/blob/master/LICENSE
+[downloads]: https://packagist.org/packages/rdomenzain/cfdi2pdf
 
-[badge-source]: https://img.shields.io/badge/source-rdomenzain/Cfdi2Pdf-blue?style=flat-square
+[badge-source]: https://img.shields.io/badge/source-rdomenzain/cfdi2pdf-blue?style=flat-square
 [badge-license]: https://img.shields.io/badge/licence-MIT-red
 [badge-downloads]: https://img.shields.io/badge/downloads-%3E%20999-orange

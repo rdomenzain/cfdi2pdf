@@ -1,6 +1,6 @@
 # Contributing
 
-Contributions are welcome. We accept pull requests on [GitHub](https://github.com/rdomenzain/Cfdi2Pdf).
+Contributions are welcome. We accept pull requests on [GitHub](https://github.com/rdomenzain/cfdi2pdf).
 
 
 ## Team members
@@ -11,11 +11,11 @@ Contributions are welcome. We accept pull requests on [GitHub](https://github.co
 
 You can find help and discussion in the following places:
 
-* GitHub Issues: <https://github.com/rdomenzain/Cfdi2Pdf/issues>
+* GitHub Issues: <https://github.com/rdomenzain/cfdi2pdf/issues>
 
 ## Reporting Bugs
 
-Bugs are tracked in our project's [issue tracker](https://github.com/rdomenzain/Cfdi2Pdf/issues).
+Bugs are tracked in our project's [issue tracker](https://github.com/rdomenzain/cfdi2pdf/issues).
 
 When submitting a bug report, please include enough information for us to reproduce the bug.
 A good bug report includes the following sections:
@@ -38,8 +38,8 @@ section below, you may create bugfix branches and send us pull requests.
 ## Adding New Features
 
 If you have an idea for a new feature, it's a good idea to check out our
-[issues](https://github.com/rdomenzain/Cfdi2Pdf/issues) or active
-[pull requests](https://github.com/rdomenzain/Cfdi2Pdf/pulls)
+[issues](https://github.com/rdomenzain/cfdi2pdf/issues) or active
+[pull requests](https://github.com/rdomenzain/cfdi2pdf/pulls)
 first to see if the feature is already being worked on.
 If not, feel free to submit an issue first, asking whether the feature is beneficial to the project.
 This will save you from doing a lot of development work only to have your feature rejected.
