@@ -49,7 +49,6 @@ and licensed for use under the MIT License (MIT). Please see [LICENSE][] for mor
 [license]: https://github.com/rdomenzain/Cfdi2Pdf/blob/master/LICENSE
 [downloads]: https://packagist.org/packages/rdomenzain/Cfdi2Pdf
 
-[badge-source]: http://img.shields.io/badge/source-phpcfdi/cfditopdf-blue?style=flat-square
-[badge-license]: https://img.shields.io/github/license/phpcfdi/cfditopdf?style=flat-square
-style=flat-square
-[badge-downloads]: https://img.shields.io/packagist/dt/phpcfdi/cfditopdf?style=flat-square
+[badge-source]: https://img.shields.io/badge/source-rdomenzain/Cfdi2Pdf-blue?style=flat-square
+[badge-license]: https://img.shields.io/badge/licence-MIT-red
+[badge-downloads]: https://img.shields.io/badge/downloads-%3E%20999-orange
