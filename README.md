@@ -38,7 +38,7 @@ and don't forget to take a look in the [TODO][] and [CHANGELOG][] files.
 
 ## Copyright and License
 
-The phpcfdi/cfditopdf library is copyright © [Ricardo Domenzain M.](https://ddsis.com.mx/)
+The rdomenzain/cfdi2pdf library is copyright © [Ricardo Domenzain M.](https://ddsis.com.mx/)
 and licensed for use under the MIT License (MIT). Please see [LICENSE][] for more information.
 
 [contributing]: https://github.com/rdomenzain/Cfdi2Pdf/blob/master/CONTRIBUTING.md
